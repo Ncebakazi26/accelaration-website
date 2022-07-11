@@ -1,0 +1,50 @@
+
+h1{
+   text-align: center;
+
+}
+/* .container{
+    width: 100%;
+    height: 100%;
+    border: solid;
+} */
+nav{
+    float: right;
+}
+ nav ul{
+     margin: 0;
+     padding: 0;
+     list-style: none;
+ }
+ nav li{
+     display: inline-block;
+     margin-left: 70px;
+ }
+ nav a {
+     text-decoration: none;
+     text-transform: uppercase;
+ }
+ nav a :hover{
+     color:black;
+ }
+ .products{
+ float: left;
+ width: 30%;
+ height: 20%;
+ }
+ .intro p{
+     margin-left: 1000px;
+ }
+
+ h3{
+     padding-top: 200px;
+ }
+ nav li a{
+     color: blueviolet;
+     
+ }
+ /* aside{
+ float: right;
+ display: block;
+ padding-bottom: 1000px;
+ } */
